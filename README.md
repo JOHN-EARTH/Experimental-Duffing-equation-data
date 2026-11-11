@@ -1,7 +1,7 @@
 # Experimental-Duffing-equation-data
-Collection of data from experiments on Duffing equations with the objective of mapping areas of chaotic behaviour. 
-
-# French version
+**ENG :** Collection of data from experiments on Duffing equations[^1]  with the objective of "mapping" different response types (periodic or chaotic). 
+**FR :** Ensemble de mesures récoltées lors d'expériences sur les équations de Duffing[^1], dans l'objectif de "cartographier" les différents régimes de réponse (périodiques ou chaotiques).
+**english version below***
 
 # Auteurs & contexte
 Auteurs : Flavio Samson & Andy Wong // L2 Mécanique intensif 2025-2026
@@ -87,3 +87,14 @@ Perspectives d'amélioration de l'expérience :
 - Utiliser une balle plus adhérente 
 - Rigidifier la plateforme (parfois bancale)
 - Réaliser toutes les expérience d'une traite (pas de légers décalages entre différentes sessions de prise vidéo)
+
+
+
+
+[^1]: J.A. Gottwald, L.N. Virgin, E.H. Dowell,
+Experimental mimicry of Duffing's equation,
+Journal of Sound and Vibration,
+Volume 158, Issue 3,
+1992,
+Pages 447-467,
+ISSN 0022-460X,
