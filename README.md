@@ -1,28 +1,31 @@
 # Experimental-Duffing-equation-data
-**ENG :** Collection of data from experiments on Duffing equations[^1]  with the objective of "mapping" different response types (periodic or chaotic). 
+**ENG :** Collection of data from experiments on Duffing equations[^1]  with the objective of "mapping" different response types (periodic or chaotic).
+
 **FR :** Ensemble de mesures récoltées lors d'expériences sur les équations de Duffing[^1], dans l'objectif de "cartographier" les différents régimes de réponse (périodiques ou chaotiques).
-**english version below***
+
+**english version below**
 
 # Auteurs & contexte
-Auteurs : Flavio Samson & Andy Wong // L2 Mécanique intensif 2025-2026
-Stage de mécanique au laboratoire Jean Le Rond d'Alembert de Sorbonne Université 
+
+Auteurs : Flavio Samson & Andy Wong // L2 Mécanique intensif 2025-2026\
+Stage de mécanique au laboratoire Jean Le Rond d'Alembert de Sorbonne Université\
 Date : sep-déc 2025
 
 
-camera : Sony ZV-1 
-mode de la camera : "intelligent auto"
-ips : 60
-balle : verte
-diamètre : 24.5 ±1 mm
-masse : non mesurée
+## Paramètres de l'étude
+
+camera : Sony ZV-1\
+mode de la camera : "intelligent auto"\
+images par seconde : 60\
+couleur de la balle : verte\
+diamètre de la balle : 24.5 ±1 mm\
+masse de la balle : non mesurée
 
 
+## Paramètres adimensionnés du dispositif expériemental
 
-Paramètres adimensionnés : 
-	G = 0.59
-	Omega_n : 10.4819 rad/s
-
-
+$G = 0.59$
+$\Omega_n = 10.4819 \,\mathrm{rad}\cdot\mathrm{s}^{-1}$
 
 Codes utilisés (en s'appuyant sur ceux du précédent rapport) : 
 - matrice_de_test : génère une matrice de test au format python et trace le graphe avec chaque point sous une courbe définie par une fonction affine (le code génère n points puis supprime ceux qui se trouvent au dessus de la courbe) (voir l'exemple dans le code)
