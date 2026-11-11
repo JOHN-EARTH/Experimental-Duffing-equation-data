@@ -24,10 +24,11 @@ masse de la balle : non mesurée
 
 ## Paramètres adimensionnés du dispositif expériemental
 
-$G = 0.59$
+$G = 0.59$\
 $\Omega_n = 10.4819 \,\mathrm{rad}\cdot\mathrm{s}^{-1}$
 
-Codes utilisés (en s'appuyant sur ceux du précédent rapport) : 
+## Architecture des programmes
+
 - matrice_de_test : génère une matrice de test au format python et trace le graphe avec chaque point sous une courbe définie par une fonction affine (le code génère n points puis supprime ceux qui se trouvent au dessus de la courbe) (voir l'exemple dans le code)
 
 - graphe_matrice_test : génère le même graphe mais en prenant en entrée une matrice contenant les coordonnées des points et le régime du mouvement de la balle associé (voir l'exemple dans le code)
