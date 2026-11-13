@@ -1,8 +1,8 @@
 # Experimental-Duffing-equation-data
 
-**ENG :** Collection of data from experiments on Duffing equations\[^1\], with the objective of "mapping" the different response regimes (periodic or chaotic).
+**ENG :** Collection of data from experiments on Duffing equations[^1], with the objective of "mapping" the different response regimes (periodic or chaotic).
 
-**FR :** Ensemble de mesures récoltées lors d'expériences sur les équations de Duffing\[^1\], dans l'objectif de « cartographier » les différents régimes de réponse (périodiques ou chaotiques).
+**FR :** Ensemble de mesures récoltées lors d'expériences sur les équations de Duffing[^1], dans l'objectif de « cartographier » les différents régimes de réponse (périodiques ou chaotiques).
 
 ---
 
@@ -24,11 +24,11 @@ Date: September–December 2025
 
 **FR :**
 
-Notre objectif était d'étudier, pour quels paramètres de départ, une expérience modélisant les équations de Duffing\[^1\] suivait un régime d'évolution chaotique ou, au contraire, périodique. Nous avons tout d'abord réalisé un maillage « large » (matrix\_experiment\_campaign\_wide\_net.png) afin de définir dans quelles « zones » de l'espace des paramètres se trouvaient les comportements chaotiques, puis nous avons « affiné » l'étude (matrix\_experiment\_campaign\_narrow\_net.png). Le dispositif expérimental a été construit par d'autres stagiaires, ainsi que quelques études de « preuve de concept ».
+Notre objectif était d'étudier, pour quels paramètres de départ, une expérience modélisant les équations de Duffing[^1] suivait un régime d'évolution chaotique ou, au contraire, périodique. Nous avons tout d'abord réalisé un maillage « large » (matrix\_experiment\_campaign\_wide\_net.png) afin de définir dans quelles « zones » de l'espace des paramètres se trouvaient les comportements chaotiques, puis nous avons « affiné » l'étude (matrix\_experiment\_campaign\_narrow\_net.png). Le dispositif expérimental a été construit par d'autres stagiaires, ainsi que quelques études de « preuve de concept ».
 
 **ENG :**
 
-Our goal was to determine for which initial parameters an experiment modelling the Duffing equations\[^1\] followed a chaotic evolution regime, or, on the contrary, a periodic one. We first carried out a "wide" mesh (matrix\_experiment\_campaign\_wide\_net.png) to identify in which "zones" of the parametric space chaotic behaviour was located, then we "refined" the study (matrix\_experiment\_campaign\_narrow\_net.png). The experimental apparatus was built by other interns, along with a few "proof of concept" studies.
+Our goal was to determine for which initial parameters an experiment modelling the Duffing equations[^1] followed a chaotic evolution regime, or, on the contrary, a periodic one. We first carried out a "wide" mesh (matrix\_experiment\_campaign\_wide\_net.png) to identify in which "zones" of the parametric space chaotic behaviour was located, then we "refined" the study (matrix\_experiment\_campaign\_narrow\_net.png). The experimental apparatus was built by other interns, along with a few "proof of concept" studies.
 
 ## Paramètres de l'étude / Study parameters
 
