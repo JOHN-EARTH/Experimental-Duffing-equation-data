@@ -142,8 +142,8 @@ def creer_fichiers_data(dossier_source, dossier_destination, auteurs="Flavio Sam
             print(f"Erreur lors du traitement de {fichier}: {e}")
 
 # Chemins des dossiers (à adapter selon ton environnement)
-dossier_source = r"C:\Users\andy9\Projet\Video\Matrice_2_video"
-dossier_destination = r"C:\Users\andy9\Projet\Video\Matrice_2_texte"
+dossier_source = r"C:\path\Video\Matrice_2_video"
+dossier_destination = r"C:\path\Video\Matrice_2_texte"
 
 # Appel de la fonction
 creer_fichiers_data(dossier_source, dossier_destination)

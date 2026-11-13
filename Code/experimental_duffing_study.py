@@ -21,7 +21,7 @@ y_osci = (-alpha * x_osci**2)/2 + (beta * x_osci**4)/4
 data_features = ['time', 'color', 'cx', 'cy']
 data_pts = pd.DataFrame(data=None, columns=data_features, dtype=float)
 
-data_pts = pd.read_csv("C:\\Users\\Andy9\\Projet\\Video_RCG.csv")
+data_pts = pd.read_csv("C:\path\Video.csv") #change for your path to the video
 
 start_vid = 350  # Removes the first few points when the oscillator doesn’t move
 
