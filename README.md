@@ -193,4 +193,4 @@ omegaomegan\_amplitude\_Type\_numerodetest\_duree\_positiondedepart
 
 ---
 
-\[^1\]: J.A. Gottwald, L.N. Virgin, E.H. Dowell, *Experimental mimicry of Duffing's equation*, Journal of Sound and Vibration, Volume 158, Issue 3, 1992, Pages 447-467, ISSN 0022-460X.
+[^1]: J.A. Gottwald, L.N. Virgin, E.H. Dowell, *Experimental mimicry of Duffing's equation*, Journal of Sound and Vibration, Volume 158, Issue 3, 1992, Pages 447-467, ISSN 0022-460X.
